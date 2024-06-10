@@ -11,7 +11,7 @@ public class GitHubCicdActionsApplication {
 	
 	@GetMapping("/welcome")
 	public String welcome() {;
-		return ("Welcome Axsa  Consulting first GitHub CI/CD Project..");
+		return ("Welcome Axsa  Consulting fi rst GitHub CI/CD Project..");
 	}
 
 	public static void main(String[] args) {
